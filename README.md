@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**sarvesh3737/sarvesh3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Sarvesh Malpani.My interest lies in Al and OpenCV.
 
 - 🔭 I’m currently working on **Machine Learning Project.**
 - 🌱 I’m currently learning **Neural Networks and Artificial Intelligence.**
@@ -13,5 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:* can contact me on mail*
                         (sarveshmalpani275@gmail.com)
 - 😄 Pronouns: I did the job.
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: I am not into mobiles.
