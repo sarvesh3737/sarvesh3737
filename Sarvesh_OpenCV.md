@@ -1,11 +1,11 @@
-#OpenCV Topics
+# OpenCV Topics
 '''
 Object Detection
 Video Processing
 Image Processing
 '''
 
-#Machine Learning Topics
+# Machine Learning Topics
 '''
 Linear/Logistic Regression
 Neural Networks
