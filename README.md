@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **in depth knowledge of OpenCV.**
 - 💬 Ask me about **Neural Networks,Web Development(Front-End),Logistic/Linear Regression.**
 - 📫 How to reach me:* can contact me on mail*
-                        [sarveshmalpani275@gmail.com](sarveshmalpani275@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+                        (sarveshmalpani275@gmail.com)
+- 😄 Pronouns: I did the job.
+- ⚡ Fun fact: 
 -->
